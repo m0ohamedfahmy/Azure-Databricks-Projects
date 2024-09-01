@@ -13,7 +13,7 @@ This project is focused on analyzing Formula 1 race data using Azure Databricks.
 The dataset includes historical Formula 1 data, such as race results, driver standings, and lap times. The data is processed to gain insights into team performance, driver comparisons, and race outcomes.
 
 ### Dataset Graph
-![Dataset Graph](./Formula1/RawDataSets/ergast_db.png)
+![Dataset Graph](./RawDataSets/ergast_db.png)
 
 ## Technologies Used
 
