@@ -6,14 +6,14 @@ This project is focused on analyzing Formula 1 race data using Azure Databricks.
 
 ## Project Architecture
 
-![Dataset Graph](./Formula1/RawDataSets/ergast_db.png)
+![Dataset Graph](./final.png)
 
 
 ## Dataset
 The dataset includes historical Formula 1 data, such as race results, driver standings, and lap times. The data is processed to gain insights into team performance, driver comparisons, and race outcomes.
 
 ### Dataset Graph
-![Dataset Graph](../ergast_db.png)
+![Dataset Graph](./Formula1/RawDataSets/ergast_db.png)
 
 ## Technologies Used
 
@@ -23,7 +23,7 @@ The project leverages the following Azure services and technologies:
 
 ## Technologies Used
 
-- <span style="color:blue;">**Azure Databricks**</span>: For big data processing and analysis.
+- <span style="color:read;">**Azure Databricks**</span>: For big data processing and analysis.
 - <span style="color:blue;">**Service Principal Access**</span>: To securely authenticate and access Azure resources.
 - <span style="color:blue;">**Azure Mount**</span>: To mount Azure Data Lake Storage (ADLS) in Databricks for seamless data access.
 - <span style="color:blue;">**External Tables**</span>: For querying data stored outside of Databricks.
